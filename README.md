@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Feedback Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Demo](feedback_demo.gif)
+
 
 ## Available Scripts
 
