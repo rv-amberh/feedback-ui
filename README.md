@@ -1,6 +1,6 @@
 ## Feedback Tracker
 
-![Demo](2023-07-1111.07.42.gif)
+![Demo](feedback_demo.gif)
 
 
 ## Available Scripts
